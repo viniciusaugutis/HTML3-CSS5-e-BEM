@@ -1,0 +1,12 @@
+Padrão dos elementos é static
+
+STATIC: posiciona elemento no lugar que foi designado;
+_______________________________________________________
+FIXED fica fixo na tela e acompanha a rolagem;
+fixa um elemento em relação a viewport
+
+fixed: usa para posicionar bottom, right, left, top;
+
+_________________________________________________________
+Z-INDEX: usa para definir prioridade de quem aparece na frente do outro.
+quanto maior maior prioridade;

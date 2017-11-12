@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  /*box-sizing: content-box; é o padrão e dependendo de colocar border padding margin aumenta o tamanho*/ 
+}
+
+body{
+
+	font-size: 32px;
+	margin: 0;
+}
+
+.frase1, .frase2, .referencia{
+
+	width: 500px;
+	text-align: justify;
+	background-color: yellow;
+
+}
+
+p{
+	margin: 10px;
+}
+
+.referencia{
+
+	background-color: blue;
+	height: 20px;
+}
+
+.frase1{
+
+	border: 3px solid red;
+	padding: 20px;
+}
+
+.frase2{
+
+	padding: 20px;
+	border: 20px solid red;
+	box-sizing: border-box; /*border box, mesmo aumentando padding colocando borda fica do mesmo tamanho definido para o elemento (altura, largura)*/
+
+}

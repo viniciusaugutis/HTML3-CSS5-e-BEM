@@ -1,0 +1,26 @@
+BEM: Convenção de nomeação de classes CSS e também das estruturas delas.
+
+Estruturas organizadas em blocos, elementos e modificadores.
+
+BEM: BLOCK ELEMENT MODIFIER
+
+__________________________________________________________________________________________
+Bloco é como se fosse componente. Organizar mentalmente os blocos, partes de um layout que 
+podem ser reutilizados juntos.
+
+Exemplo: conjunto de botoes que formam um menu, é um bloco.
+São blocos independentes, assim facilita ao desenvolvedor.
+
+____________________________________________________________________________________________
+Element: são os componentes constituintes do bloco.
+
+Exemplo: Bloco pode possui vários elementos dentro dele. Mas elemento sozinho não tem nennhum
+significado. Ele depende do bloco para existir.
+
+____________________________________________________________________________________________
+Modificador: Marcação que se coloca no bloco para mudar a aparência, estado ou comportamento
+do bloco ou elemento.
+
+
+BLOCOS PODEM FICAR DENTRO DE BLOCOS, E BLOCOS TAMBÉM PODEM FICAR DENTRO DE ELEMENTOS.
+MAS NÃO PODE DEPENDER DE OUTRO BLOCO.

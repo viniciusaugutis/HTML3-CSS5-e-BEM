@@ -1,0 +1,9 @@
+Position Relative
+
+Define a posicao do elemento relativo a ele mesmo. A partir de onde ela deveria estar.
+Posiciona ela diferente, mover um pouco pra direita por exemplo
+
+Usa top, bottom, right, left para mudar posicao.
+
+Mudando a posicao o espaço que ela estava antes fica ainda sem utilidade para outras coisas.
+o espaço que ela estava permanece la.

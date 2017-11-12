@@ -1,0 +1,11 @@
+.botao:hover{
+ 	background-color: red;
+}
+/* quando estiver com mouse em cima do botao muda fundo para vermelho*/
+
+
+.botao:focus{
+	background-color: red;
+}
+
+/*foco em cima dele*/

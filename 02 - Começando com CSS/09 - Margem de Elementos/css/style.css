@@ -1,0 +1,31 @@
+body{
+
+	font-size: 32px;
+	margin: 0; /*para tirar o padrao que ja vem do body*/
+}
+
+.frase1, .frase2{
+
+	text-align: justify;
+	background-color: yellow;
+	width:  500px;
+
+	padding: 20px;
+	border: 3px solid red;
+
+}
+
+p{
+
+	margin: 0;
+}
+
+.frase1 {
+  margin: 10px 0 100px 50px;
+  /*superior, direito, inferior, esquerdo*/
+  /*margin-top: -100px;*/
+}
+
+.frase2 {
+  margin: 0 auto; /*auto serve para centralizar, no caso do exemplo na horizontal*/
+}

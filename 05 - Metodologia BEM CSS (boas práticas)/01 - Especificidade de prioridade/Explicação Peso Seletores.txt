@@ -1,0 +1,21 @@
+Peso das especificidades
+
+Seletor por ID - bem especifico
+Seletor por Classe - meio especifico
+Seletor por tag - nada especifico
+
+Seletor por ID: 1 ponto
+Seletor por Classe: 1 Ponto
+Seletor por Tag: 1 ponto
+
+se tem os tres: fica 1 1 1
+
+se tem os so id e classe: 1 1 0 
+
+Isso forma o peso da especificidade
+
+se tem 
+
+.outraclasse .amarelo{
+	020 : 2 porque tem duas classes
+}

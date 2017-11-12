@@ -1,0 +1,4 @@
+Padrão para estilos css.
+Quando todos da empresa produzem seguindo um guia, isso aumenta a produtividade e a organização.
+
+http://cssguidelin.es/

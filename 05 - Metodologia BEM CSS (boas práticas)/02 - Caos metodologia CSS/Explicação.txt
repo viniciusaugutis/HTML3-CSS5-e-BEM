@@ -1,0 +1,15 @@
+A falta de metodologia causa transtornos para o programador.
+Nao consegue reutilizar código, não consegue compartilhar em outro projeto.
+Não consegue manutenção, não consegue mover código facilmente na página.
+
+Não existe uma convenção CSS de nomenclatura, mas é interessante colocar nomes fáceis para
+você manusear e semânticos.
+
+Usar ID não é uma boa prática devido ao seu peso.
+Cria batalha de especificidade.
+
+Muitos usam o !importante, para sobrescrever mas não é o melhor, pois ai você perde controle
+do seu código.
+
+ESCREVER CÓDIGOS CSS SEM CONVENÇÃO E SEM METODOLOGIA NÃO É MUITO LEGAL. PARA SISTEMAS PEQUENOS
+VAI BEM, MAS PARA SISTEMAS GRANDES TRAZ PROBLEMAS.

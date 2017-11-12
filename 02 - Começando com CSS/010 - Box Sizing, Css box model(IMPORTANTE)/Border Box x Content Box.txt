@@ -1,0 +1,7 @@
+Definido pelo atributo: box-sizing
+
+border box, mesmo aumentando padding colocando borda... fica do mesmo tamanho definido para o elemento (altura, largura)*/ nao ultrapassa o tamanho, somando a margin border e padding
+Content box, colocando padding e border ele vai aumentar o tamanho que foi especificado por altura e largura 
+
+box-sizing: border box
+FAZ NÃO ULTRAPASSAR O VALOR JÁ DEFINIDO PARA O ELEMENTO MESMO ADICIONANDO PADDING, MARGING E BORDER

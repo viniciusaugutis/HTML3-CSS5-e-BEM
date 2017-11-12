@@ -1,0 +1,12 @@
+Bootstrap divide o grid css em colunas
+12 colunas.
+12 partes da tela.
+
+Existe um espaço entre cada coluna que chama-se gutter.
+
+
+As linhas (row) classes do bootstrap também são importantes semanticamente 
+para garantir que não ocorram erros de layout;
+
+Indica que divs ou elementos podem estar na mesma linha, nao necessariamente mas só eles podem
+estar na mesma linha.

@@ -1,0 +1,5 @@
+Display
+
+inline: deixa todo em linha e as tag height e width não possuem efeito
+inline-block: deixa todo em linha e as tags height e width possuem efeito.
+block: deixa um embaixo do outro e com tags height e width com efeito

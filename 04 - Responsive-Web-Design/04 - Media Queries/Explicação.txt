@@ -1,0 +1,12 @@
+Aplicam determinadas regras css se uma condição for verdadeira.
+
+Exemplo:
+
+@media(min-width: 800px){
+	article{
+		font-size: 20px;
+	}
+}
+
+só é mudado o tamanho da fonte se o minimo width da tela for 500px; 
+em article ou qualquer outro que quiser

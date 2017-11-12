@@ -1,0 +1,10 @@
+HTML ENTITIES SÃO SIMBOLOS PARA USAR NO HTML
+
+CONVENÇÃO
+
+&código;
+
+exemplo: &copy; faz o simbolo C, de copyright;
+
+&copy;
+&reg;

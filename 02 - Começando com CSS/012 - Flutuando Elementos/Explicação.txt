@@ -1,0 +1,5 @@
+Utilizado para flutuar elementos na página
+
+float: left; flutua ele a esquerda da página
+
+Muito usado para imagens e textos do lado delas.

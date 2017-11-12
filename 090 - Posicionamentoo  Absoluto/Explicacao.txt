@@ -1,0 +1,15 @@
+Position Absoluto
+
+Absoluto é relativo ao documento e não a posição do próprio elemento.
+E ele não fica fixo, ele fica para trás do scrool.
+
+Absoluto: absolute;
+posiciona exatamente na posição que quiser na página.
+
+________________________________________________________________________
+Também podemos colocar ele posicionar em relação ao pai.
+Para fazer isso apenas coloca o posicionamento do pai como RELATIVE ou ABSOLUTO. 
+Já faz automaticamente dai.
+
+No inicio se nao tiver nenhum pai relativo, ele vai ao primeiro que tem o relativo. Que é 
+o documento da página html

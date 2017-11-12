@@ -1,0 +1,9 @@
+Em: aumenta o tamanho do texto em quantas vezes quer do tamanho que ta do pai.
+
+Exemplo: 2em, duas vezes tamanho do pai
+
+Rem: É relativo a fonte padrão do documento. Que no caso pode ser 16px;
+Não é mais relativo ao pai e sim ao documento.
+
+Interessante é arrumar o controle do tamanho da fonte dos blocos pelo REM e dos elementos dos 
+blocos pelo EM.
